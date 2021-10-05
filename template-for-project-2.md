@@ -3,6 +3,8 @@
 
 I started by importing data with the `IMPORTHTML` function. The original dataset is located on the Government of Canada's [open data portal](URL). 
 
+NOTE: STUDENTS MUST USE ONE OF THE FIVE IMPORT FUNCTIONS.
+
 INSERT GOOGLE SHEETS SCREEN CAPTURE
 
 [Here is my Google Sheets document](put the PUBLIC URL).
