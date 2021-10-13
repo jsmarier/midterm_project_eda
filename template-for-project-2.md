@@ -11,6 +11,8 @@ This dataset includes...
 
 ## 2. Getting Data
 
+### 2.1. Importation
+
 I started by downloading the dataset from the City of Ottawa's open data portal. There were four options: CSV, KML, Shapefile, and GeoJSON. I decided to use the CSV file for the following reasons... (Explain them.)
 
 I had to download the CSV file directly onto my computer, since there was no way for me to find the actual URL of the CSV file. Once that was done, I uploard the CSV into Google Sheets with "File" > "Import" > "Uploard." When prompted by Google Sheets, I left the selector type option as "Dected automatically."
@@ -24,10 +26,11 @@ NOTE: Students should try to use one of Google Sheets' five `IMPORT` functions. 
 
 If you do use an IMPORT function, make sure to include the code in this section of your assignment, such as `=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)`.
 
+Alternatively, you can put your code in a box like this one:
 
-
-
-
+``` r
+=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)
+```
 
 INSERT GOOGLE SHEETS SCREEN CAPTURE
 
@@ -39,11 +42,22 @@ INSERT GOOGLE SHEETS SCREEN CAPTURE
 
 Before you submit your assignment, visit your GitHub repository with Chrome's Ingognito mode. That way, you will be able to make sure that all of your links are indeed public.
 
+### 2.2. Description
+
 ## 3. Understanding Data
 
 ### 3.1. Cleaning Data
 
-### 3.2. Analyzing Data
+Must use X number of functions in Google Sheets.
+Must process the dataset with OpenRefine and explain the steps.
+
+### 3.2. Reliability
+
+Make observations regarding the dataset based on the three simple steps from The Data Journalism Handbook )italics) and Stats Can. https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch3/quality-qualite/5214788-eng.htm
+
+### 3.3. Analyzing Data
+
+Clearly explain what you did in Google Sheets. Did you use a pivot table too?
 
 ## 4. Delivering Data
 
