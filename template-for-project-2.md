@@ -2,6 +2,12 @@ Install the Markdown Preview Enhanced extension.
 
 All of your files, including images, should be saved inside the same folder.
 
+This template assignment was inspired by the structure of The Data Journalism Handbook (source). 
+
+REPLICABILITY SHOULD BE PART OF THE CRITERIA. "The instructions/explanations provided by the student are clear enough that another person could replicate the analysis step by step." And then, one detail missing, two details missing, etc.
+
+In addition to screen captures, make sure to include links to the public version of your Google Sheets spreadsheet and your visualization.
+
 # Data Analysis
 ## 1. Introduction
 
@@ -49,15 +55,15 @@ Before you submit your assignment, visit your GitHub repository with Chrome's In
 ### 3.1. Cleaning Data
 
 Must use X number of functions in Google Sheets.
-Must process the dataset with OpenRefine and explain the steps.
+Must process the dataset with OpenRefine and explain the steps. (give a minimum number of operations.)
 
-### 3.2. Reliability
-
-Make observations regarding the dataset based on the three simple steps from The Data Journalism Handbook )italics) and Stats Can. https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch3/quality-qualite/5214788-eng.htm
-
-### 3.3. Analyzing Data
+### 3.2. Analyzing Data
 
 Clearly explain what you did in Google Sheets. Did you use a pivot table too?
+
+### 3.3. Reliability
+
+Make observations regarding the dataset based on the three simple steps from The Data Journalism Handbook )italics) and Stats Can. https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch3/quality-qualite/5214788-eng.htm
 
 ## 4. Delivering Data
 
