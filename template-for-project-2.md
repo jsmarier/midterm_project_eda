@@ -65,6 +65,8 @@ Clearly explain what you did in Google Sheets. Did you use a pivot table too?
 
 Make observations regarding the dataset based on the three simple steps from The Data Journalism Handbook )italics) and Stats Can. https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch3/quality-qualite/5214788-eng.htm
 
+analyse des données exploratoire/exploratory data analysis (IMB), trois étapes simples. bref, évaluez la crédibilité de vos données.
+
 ## 4. Delivering Data
 
 ## 5. Conclusion
