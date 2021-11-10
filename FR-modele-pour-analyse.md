@@ -1,9 +1,6 @@
 **Date**
-
 **Cote et nom du cours**
-
 **Prénom et nom de l'étudiant(e)**
-
 **Présenté à Jean-Sébastien Marier**
 
 # Projet 2 : Travail d’analyse et de visualisation de données
