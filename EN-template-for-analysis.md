@@ -1,6 +1,9 @@
 **Date**
+
 **Course Code & Course Name**
+
 **Student's First Name & Last Name**
+
 **Presented to Jean-Sébastien Marier**
 
 # Project 2: Basic Data Analysis & Visualization
