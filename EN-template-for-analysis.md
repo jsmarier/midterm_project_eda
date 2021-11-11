@@ -35,7 +35,7 @@ Use three hashtag symbols (`###`) to create a level 3 heading like this one. Ple
 
 To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
 
-![](import-screen-capture.png)
+![](import-screen-capture.png)<br>
 *Figure 1: The "Import file" prompt on Google Sheets.*
 
 **Here are examples of functions and lines of code put in grey boxes:**
@@ -59,7 +59,7 @@ Insert text here.
 
 **This section should include a screen capture of your chart and its public link, like so:**
 
-![](map-screen-capture.png)
+![](map-screen-capture.png)<br>
 *Figure 2: The map created with Datawrapper*
 [Interactive version here](https://datawrapper.dwcdn.net/o7Wwp/2/)
 

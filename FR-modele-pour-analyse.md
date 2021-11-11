@@ -35,7 +35,7 @@ Utilisez trois croisillons (`###`) pour créer un intertitre de niveau 3 comme c
 
 Utilisez le modèle de code ci-dessous pour insérer une capture d'écran. Vos images doivent être sauvegardées dans le même dossier que votre fichier `.md`.
 
-![](import-screen-capture.png)
+![](import-screen-capture.png)<br>
 *Figure 1 : La fenêtre d'importation d'un fichier de Google Feuilles de calcul.*
 
 **Voici quelques exemples de fonctions et de lignes de code mises dans des boîtes grises :**
@@ -59,7 +59,7 @@ Insérez votre texte ici.
 
 **Cette section doit inclure une capture d'écran de votre graphique ainsi que son lien public, comme ceci :**
 
-![](map-screen-capture.png)
+![](map-screen-capture.png)<br>
 *Figure 2 : La carte créée avec Datawrapper.*
 [Version interactive ici](https://datawrapper.dwcdn.net/o7Wwp/2/)
 
