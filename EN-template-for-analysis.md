@@ -31,7 +31,7 @@ Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
 ### 2.1. Importation
 
-Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to levels 1 and 2 headings. However, you can use level 3 headings as you see fit.
+Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
 
 To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
 
