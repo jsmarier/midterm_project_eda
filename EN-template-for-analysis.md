@@ -65,7 +65,7 @@ Insert text here.
 
 ## 5. Conclusion
 
-Insert text here.
+Thank you for reading my report.
 
 ## 6. References
 
