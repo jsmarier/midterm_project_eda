@@ -76,7 +76,7 @@ Insérez votre texte ici.
 
 Veuillez inclure une liste de vos références ici. Assurez-vous de suivre les [normes APA pour les références](https://apastyle.apa.org/style-grammar-guidelines/references).
 
-**Voici un exemple:**
+**Voici un exemple :**
 
 Bounegru, L., & Gray, J. (Eds.). (2021). The Data Journalism Handbook: Towards A Critical Data Practice. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
 
