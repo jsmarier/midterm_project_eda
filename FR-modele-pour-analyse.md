@@ -14,7 +14,6 @@ J'assigne différentes versions de ce projet à mes étudiants en journalisme nu
 **Voici quelques ressources utiles pour ce travail :**
 
 * [Page *Basic writing and formatting syntax* de GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [GitHub Guides: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Le répertoire modèle pour ce projet au cas où vous effaceriez quelque chose par accident](https://github.com/jsmarier/Template-for-the-Basic-Data-Analysis-Visualization-Project)
 
 Avez-vous remarqué comment créer un hyperlien? En langage Markdown, on met le texte cliquable entre une paire de crochets et l'adresse URL entre parenthèses.
@@ -53,6 +52,12 @@ C'est aussi comme ça qu'on crée une liste ordonnée. Il suffit de mettre `1.` 
 
 Insérez votre texte ici.
 
+Appuyez vos affirmations en citant les sources appropriées. Veuillez suivre les [normes APA en matière d'attribution dans le corps du texte](https://apastyle.apa.org/style-grammar-guidelines/citations).
+
+**Par exemple :**
+
+Comme l'affirme Cairo (2016), une visualisation de données doit être véridique...
+
 ## 4. Publier les données
 
 Insérez votre texte ici.
@@ -69,4 +74,12 @@ Insérez votre texte ici.
 
 ## 6. Références
 
-Veuillez inclure une liste de vos références ici.
+Veuillez inclure une liste de vos références ici. Assurez-vous de suivre les [normes APA pour les références](https://apastyle.apa.org/style-grammar-guidelines/references).
+
+**Voici un exemple:**
+
+Bounegru, L., & Gray, J. (Eds.). (2021). The Data Journalism Handbook: Towards A Critical Data Practice. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
+
+Cairo, A. (2016). The Truthful Art: Data, Charts, and Maps for Communication. New Riders. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022766731805153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022766731805153)
+
+Gray, J., Bounegru, L., & Chambers, L. (2012). The Data Journalism Handbook: How Journalists Can Use Data to Improve the News. O’Reilly Media. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022762635005153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022762635005153)
