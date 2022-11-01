@@ -78,8 +78,4 @@ Veuillez inclure une liste de vos références ici. Assurez-vous de suivre les [
 
 **Voici un exemple :**
 
-Bounegru, L., & Gray, J. (Eds.). (2021). The Data Journalism Handbook: Towards A Critical Data Practice. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
-
-Cairo, A. (2016). The Truthful Art: Data, Charts, and Maps for Communication. New Riders. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022766731805153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022766731805153)
-
-Gray, J., Bounegru, L., & Chambers, L. (2012). The Data Journalism Handbook: How Journalists Can Use Data to Improve the News. O’Reilly Media. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022762635005153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022762635005153)
+Bounegru, L., & Gray, J. (Eds.). (2021). *The Data Journalism Handbook 2: Towards A Critical Data Practice*. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
