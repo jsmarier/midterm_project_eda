@@ -28,10 +28,6 @@ Insert text here.
 
 Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
-### 2.1. Importation
-
-Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
-
 To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
 
 ![](import-screen-capture.png)<br>
@@ -50,6 +46,10 @@ This also shows how to create an ordered list. Simply put `1.` before each item.
 
 ## 3. Understanding Data
 
+### 3.1. Cleaning Data
+
+Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
+
 Insert text here.
 
 Support your claims by citing relevant sources. Please follow [APA guidelines for in-text citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
@@ -57,6 +57,10 @@ Support your claims by citing relevant sources. Please follow [APA guidelines fo
 **For example:**
 
 As Cairo (2016) argues, a data visualization should be truthful...
+
+### 3.2. Exploratory Data Analysis
+
+Insert text here.
 
 ## 4. Delivering Data
 
