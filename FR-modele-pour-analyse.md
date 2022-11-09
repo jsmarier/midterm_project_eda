@@ -28,10 +28,6 @@ Insérez votre texte ici.
 
 Utilisez deux croisillons (`##`) pour créer un intertitre de niveau 2 comme celui-ci.
 
-### 2.1. Importation
-
-Utilisez trois croisillons (`###`) pour créer un intertitre de niveau 3 comme celui-ci. Je vous prie de suivre ce modèle en ce qui a trait aux intertitres de niveaux 1 et 2. Toutefois, je vous laisse le loisir d'utiliser les intertitres de niveau 3 comme bon vous semble.
-
 Utilisez le modèle de code ci-dessous pour insérer une capture d'écran. Vos images doivent être sauvegardées dans le même dossier que votre fichier `.md`.
 
 ![](import-screen-capture.png)<br>
@@ -50,6 +46,10 @@ C'est aussi comme ça qu'on crée une liste ordonnée. Il suffit de mettre `1.` 
 
 ## 3. Comprendre les données
 
+### 3.1. Nettoyage des données
+
+Utilisez trois croisillons (`###`) pour créer un intertitre de niveau 3 comme celui-ci. Je vous prie de suivre ce modèle en ce qui a trait aux intertitres de niveaux 1 et 2. Toutefois, je vous laisse le loisir d'utiliser les intertitres de niveau 3 comme bon vous semble.
+
 Insérez votre texte ici.
 
 Appuyez vos affirmations en citant les sources appropriées. Veuillez suivre les [normes APA en matière d'attribution dans le corps du texte](https://apastyle.apa.org/style-grammar-guidelines/citations).
@@ -57,6 +57,10 @@ Appuyez vos affirmations en citant les sources appropriées. Veuillez suivre les
 **Par exemple :**
 
 Comme l'affirme Cairo (2016), une visualisation de données doit être véridique...
+
+### 3.2. Analyse exploratoire des données
+
+Insérez votre texte ici.
 
 ## 4. Publier les données
 
