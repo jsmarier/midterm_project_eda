@@ -9,6 +9,8 @@ Use one hashtag symbol (`#`) to create a level 1 heading like this one.
 
 ## Foreword
 
+For this assignment, you must extract data from a dataset provided by the instructor. You must then clean and analyze the data, find a potential story idea, and create a visualization. Your assignment must clearly detail your process. You are expected to write about 1000-1500 words, and to include several screen captures showing the different steps you went through. Your assignment must be written with the Markdown format and submitted on GitHub Classroom.
+
 I have been assigning different versions of this project to my digital journalism and data storytelling students for a few years now. Its structure was inspired by the main sections/chapters of [*The Data Journalism Handbook*](https://datajournalism.com/read/handbook/one/). This version was further inspired by the [Key Capabilities in Data Science](https://extendedlearning.ubc.ca/programs/key-capabilities-data-science) program offered by the University of British Columbia (UBC).
 
 **Here are some useful resources for this assignment:**
