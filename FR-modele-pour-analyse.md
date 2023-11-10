@@ -7,7 +7,7 @@
 
 Utilisez un croisillon (`#`) pour créer un intertitre de niveau 1 comme celui-ci.
 
-## Avant propos
+## Avant-propos
 
 Pour ce travail, vous devez extraire des données d’un site Internet ou d’une base de données. Vous devez ensuite nettoyer et analyser votre jeu de données, trouver une histoire potentielle et créer une visualisation. Votre travail doit clairement expliquer votre processus. Vous devez écrire environ 1000 à 1500 mots et inclure des captures d’écran montrant les différentes étapes de votre analyse. Votre travail doit être rédigé avec le format Markdown et être publié sur GitHub. 
 
