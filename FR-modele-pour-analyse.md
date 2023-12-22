@@ -48,7 +48,7 @@ C'est aussi comme ça qu'on crée une liste ordonnée. Il suffit de mettre `1.` 
 
 ## 3. Comprendre les données
 
-### 3.1. Nettoyage des données
+### 3.1. Analyse VIMA
 
 Utilisez trois croisillons (`###`) pour créer un intertitre de niveau 3 comme celui-ci. Je vous prie de suivre ce modèle en ce qui a trait aux intertitres de niveaux 1 et 2. Toutefois, je vous laisse le loisir d'utiliser les intertitres de niveau 3 comme bon vous semble.
 
@@ -60,7 +60,11 @@ Appuyez vos affirmations en citant les sources appropriées. Veuillez suivre les
 
 Comme l'affirme Cairo (2016), une visualisation de données doit être véridique...
 
-### 3.2. Analyse exploratoire des données
+### 3.2. Nettoyage des données
+
+Insérez votre texte ici.
+
+### 3.3. Analyse exploratoire des données
 
 Insérez votre texte ici.
 
