@@ -48,7 +48,7 @@ This also shows how to create an ordered list. Simply put `1.` before each item.
 
 ## 3. Understanding Data
 
-### 3.1. Cleaning Data
+### 3.1. VIMO Analysis
 
 Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
 
@@ -60,7 +60,11 @@ Support your claims by citing relevant sources. Please follow [APA guidelines fo
 
 As Cairo (2016) argues, a data visualization should be truthful...
 
-### 3.2. Exploratory Data Analysis
+### 3.2. Cleaning Data
+
+Insert text here.
+
+### 3.3. Exploratory Data Analysis
 
 Insert text here.
 
