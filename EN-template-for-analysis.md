@@ -64,7 +64,7 @@ As Cairo (2016) argues, a data visualization should be truthful...
 
 Insert text here.
 
-### 3.3. Exploratory Data Analysis
+### 3.3. Exploratory Data Analysis (EDA)
 
 Insert text here.
 
