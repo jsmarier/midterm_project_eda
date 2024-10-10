@@ -64,7 +64,7 @@ Comme l'affirme Cairo (2016), une visualisation de données doit être véridiqu
 
 Insérez votre texte ici.
 
-### 3.3. Analyse exploratoire des données
+### 3.3. Analyse exploratoire des données (AED)
 
 Insérez votre texte ici.
 
