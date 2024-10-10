@@ -3,13 +3,13 @@
 **Prénom et nom de l'étudiant(e)**<br>
 **Présenté à Jean-Sébastien Marier**<br>
 
-# Projet 2 : Analyse et de visualisation de données simple
+# Projet de mi-session : Analyse exploratoire de données (AED)
 
 Utilisez un croisillon (`#`) pour créer un intertitre de niveau 1 comme celui-ci.
 
 ## Avant-propos
 
-Pour ce travail, vous devez extraire des données d’un site Internet ou d’une base de données. Vous devez ensuite nettoyer et analyser votre jeu de données, trouver une histoire potentielle et créer une visualisation. Votre travail doit clairement expliquer votre processus. Vous devez écrire environ 1000 à 1500 mots et inclure des captures d’écran montrant les différentes étapes de votre analyse. Votre travail doit être rédigé avec le format Markdown et être publié sur GitHub. 
+Pour ce travail, vous devez extraire des données d’un site Internet ou d’une base de données. Vous devez ensuite nettoyer et analyser votre jeu de données, trouver une histoire potentielle et créer une visualisation. Votre travail doit clairement expliquer votre processus. Vous devez écrire environ 1500 à 2000 mots et inclure des captures d’écran montrant les différentes étapes de votre analyse. Votre travail doit être rédigé avec le format Markdown et être publié sur GitHub.
 
 J'assigne différentes versions de ce projet à mes étudiants en journalisme numérique et en « data storytelling » depuis déjà quelques années. La structure générale de ce travail est basée sur celle du [*Guide du datajournalisme*](http://jplusplus.github.io/guide-du-datajournalisme/index.html). La présente version est également inspirée du programme [Key Capabilities in Data Science](https://extendedlearning.ubc.ca/programs/key-capabilities-data-science) offert par l'Université de la Colombie-Britannique (UBC).
 
@@ -68,11 +68,15 @@ Insérez votre texte ici.
 
 Insérez votre texte ici.
 
-**Cette section doit inclure une capture d'écran de votre graphique ainsi que son lien public, comme ceci :**
+**Cette section doit inclure une capture d'écran de votre tableau croisé dynamique, comme ceci :**
 
-![](map-screen-capture.png)<br>
-*Figure 2 : La carte créée avec Datawrapper.*
-[Version interactive ici](https://datawrapper.dwcdn.net/o7Wwp/2/)
+![](pivot-table-screen-capture.png)<br>
+*Figure 2 : Ce tableau croisé dynamique montre...*
+
+**Cette section doit aussi inclure une capture d'écran de votre graphique exploratoire, comme ceci :**
+
+![](chart-screen-capture.png)<br>
+*Figure 3 : Ce graphique exploratoire montre...*
 
 ## 4. Récit potentiel
 
