@@ -68,15 +68,15 @@ Insérez votre texte ici.
 
 Insérez votre texte ici.
 
-## 4. Publier les données
-
-Insérez votre texte ici.
-
 **Cette section doit inclure une capture d'écran de votre graphique ainsi que son lien public, comme ceci :**
 
 ![](map-screen-capture.png)<br>
 *Figure 2 : La carte créée avec Datawrapper.*
 [Version interactive ici](https://datawrapper.dwcdn.net/o7Wwp/2/)
+
+## 4. Récit potentiel
+
+Insérez votre texte ici.
 
 ## 5. Conclusion
 
