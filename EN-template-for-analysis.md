@@ -68,15 +68,15 @@ Insert text here.
 
 Insert text here.
 
-## 4. Delivering Data
-
-Insert text here.
-
 **This section should include a screen capture of your chart and its public link, like so:**
 
 ![](map-screen-capture.png)<br>
 *Figure 2: The map created with Datawrapper*
 [Interactive version here](https://datawrapper.dwcdn.net/o7Wwp/2/)
+
+## 4. Potential Story
+
+Insert text here.
 
 ## 5. Conclusion
 
