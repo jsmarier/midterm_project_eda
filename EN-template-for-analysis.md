@@ -84,7 +84,7 @@ Insert text here.
 
 ## 5. Conclusion
 
-Thank you for reading my report.
+Insert text here.
 
 ## 6. References
 
